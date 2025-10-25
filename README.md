@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a third-year computer science student at FAST NUCES with a passion for software development. I started my development journey with Flutter to build mobile apps, which gave me a strong foundation in cross-platform development. Now, I’m diving into full-stack development, using JavaScript stack to create powerful and scalable web applications. I’m always eager to learn and explore new technologies to enhance my skills and contribute to impactful projects.
+I’m a final-year computer science student at FAST NUCES with a passion for software development. I started my development journey with Flutter to build mobile apps, which gave me a strong foundation in cross-platform development. Now, I’m diving into full-stack development, using JavaScript stack to create powerful and scalable web applications. I’m always eager to learn and explore new technologies to enhance my skills and contribute to impactful projects.
 
 
 ## 🌐 Socials:
