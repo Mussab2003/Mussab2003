@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software engineer who builds scalable web applications. I work across multiple technology stacks, including JavaScript, Python, Java, and Go, to design and develop efficient, high-performance solutions. I’m always eager to learn and explore new technologies to further enhance my skills and contribute to impactful projects.
+I’m a software engineer focused on building scalable web applications and reliable systems. I enjoy designing clean architectures, working with cloud technologies, and building infrastructure that supports high-performance products. Always learning, always building, always improving.
 
 
 ## 🌐 Socials:
